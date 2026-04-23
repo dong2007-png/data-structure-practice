@@ -1,0 +1,19 @@
+# 构建目录
+cmake-build-debug/
+cmake-build-release/
+
+# CLion 缓存
+.idea/
+*.iml
+
+# 可执行文件
+*.exe
+*.out
+*.a
+*.lib
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
