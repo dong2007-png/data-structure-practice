@@ -29,4 +29,6 @@ add_executable(data_structure main.cpp ${ALL_SOURCES}
         peactice/lianbiaofanzhuan.cpp
         "peactice/delete the repeat.cpp"
         "peactice/two sum.cpp"
-        peactice/list.cpp)
+        peactice/list.cpp
+        06-二叉树/01最小公共双亲.cpp
+        06-二叉树/02最小公共双亲.cpp)
